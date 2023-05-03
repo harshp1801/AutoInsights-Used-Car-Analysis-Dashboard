@@ -4,15 +4,16 @@
 
 ## About Dataset:
 
-The dataset contains information on 2000+ used cars including make, model, manufacturer, price, year of production, fuel type, states sold in, and kilometers driven. It provides valuable insights into the used car market, including popular models, manufacturer companies, and average prices in different states. The year of production and kilometers driven provide additional information on vehicle age and condition, while the fuel type can help identify consumer preferences in different regions. Overall, it is a comprehensive source of data for businesses and researchers seeking to understand and make data-driven decisions in the used car market.
+The dataset contains information on 6000+ used cars including make, model, manufacturer, price, year of production, fuel type, states sold in, and kilometers driven. It provides valuable insights into the used car market, including popular models, manufacturer companies, and average prices in different states. The year of production and kilometers driven provide additional information on vehicle age and condition, while the fuel type can help identify consumer preferences in different regions. Overall, it is a comprehensive source of data for businesses and researchers seeking to understand and make data-driven decisions in the used car market.
 <br>
 
-## Data Dictionary:
-| Files | Description |
-| -------| ---------- |
-| power_bi_final_evualution.pbix | This file contains dashboard of the dataset in PowerBI. Its also contains data cleaning steps in Power-Query editor. |
-| used_cars_mysql_script.sql | This MySQL script tries to show how we can remove noise or prepare our dataset in a Sql Workbench |
+## Guide:
 
+| Files/Folder| Description |
+| ------------- | ------------- |
+| *Dataset Folder* | This folder provides sample UK's road accident dataset used in the project  |
+| *Presentation Folder* | This folder contains presentation in pdf as well as in ppt format  |
+| *Power BI file* | The file contains Power Bi file where dashboard is created |
 
 ## Data Preparation:
 
