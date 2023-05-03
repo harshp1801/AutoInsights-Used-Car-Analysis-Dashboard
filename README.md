@@ -16,7 +16,7 @@ The dataset contains information on 6000+ used cars including make, model, manuf
 
 ## Data Preparation:
 
-![image](https://user-images.githubusercontent.com/55955478/235958792-3a011c22-38f9-4a93-a6d8-343362db1c34.png)
+![excelsheet](https://user-images.githubusercontent.com/128036066/235987911-b62660a6-1485-4fda-af9f-947f280d3d24.png)
 
 To prepare the data, we performed the following steps using the Power Query Editor:
   1. Dropped nulls, blank rows, and duplicate rows.
