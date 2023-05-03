@@ -12,7 +12,6 @@ The dataset contains information on 6000+ used cars including make, model, manuf
 | Files/Folder| Description |
 | ------------- | ------------- |
 | *Dataset Folder* | This folder provides sample UK's road accident dataset used in the project  |
-| *Presentation Folder* | This folder contains presentation in pdf as well as in ppt format  |
 | *Power BI file* | The file contains Power Bi file where dashboard is created |
 
 ## Data Preparation:
