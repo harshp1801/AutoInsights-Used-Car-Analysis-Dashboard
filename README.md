@@ -1,5 +1,5 @@
 # <img src=https://user-images.githubusercontent.com/55955478/235950162-278285a3-c76c-4bee-b4ef-a6520f7abb9b.gif height=50 width=50> Used_Cars Data Analysis 
-<img src=https://user-images.githubusercontent.com/55955478/235955988-9066d563-d7d3-403e-98f3-88291d691c44.jpeg height=450 width=1200>
+<img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJmOTlhZjUyYzJkOWY0NDU5NTFhNTVkN2ZmYjZjYzEzNTI1YmM5YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2shcjyS5yLtzHyd91H/giphy.gif" height=450 width=1200>
 
 
 ## About Dataset:
@@ -14,7 +14,7 @@ The dataset contains information on 6000+ used cars including make, model, manuf
 | *Dataset Folder* | This folder provides sample UK's road accident dataset used in the project  |
 | *Power BI file* | The file contains Power Bi file where dashboard is created |
 
-## Data Preparation:
+## <img src="https://user-images.githubusercontent.com/122404051/235767211-297f9f4f-d41a-46ec-838f-13ea23817702.gif"  width="48" height="48"> Data Preparation:
 
 ![excelsheet](https://user-images.githubusercontent.com/128036066/235987911-b62660a6-1485-4fda-af9f-947f280d3d24.png)
 
@@ -25,7 +25,7 @@ To prepare the data, we performed the following steps using the Power Query Edit
   4. Created two new columns from the car_name column: "Brand" and "Car model".
   5. Removed the original "car_name" column.
 
-## Data Analysis:
+## <img src=https://user-images.githubusercontent.com/106439762/178804195-d9db61fb-b2cf-4c8f-bfc3-214cfe0f534c.gif width="48" height="48" > Data Analysis:
 We analyzed the data to gain insights into the used car market, including the following:
   1. Relationship between the age of a used car and its price.
   2. Top 10 brands based on the average price.
@@ -36,7 +36,7 @@ We analyzed the data to gain insights into the used car market, including the fo
 
 ## Dashboard
 
-![image](https://user-images.githubusercontent.com/55955478/235959748-d8f1d243-0362-4e67-880d-b21fba7aa149.png)
+![dashboard](https://user-images.githubusercontent.com/128036066/235990975-559b9abb-8f82-46f4-87a6-e6c8b78ef805.png)
 <br>
 
 ## Evaluation Criteria
